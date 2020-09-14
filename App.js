@@ -8,6 +8,7 @@ import ThirdScreen from './src/Screens/ThirdScreen'
 import {Provider} from 'react-redux';
 import {createStore} from 'redux';
 import reducers from './src/Redux/reducers'
+//주석을 추가하고 깃허브에 올려보겠습니다!
 
 
 const Tab = createBottomTabNavigator();
